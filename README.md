@@ -11,7 +11,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 # MY SKILLS
 
 ## Frontend
-<img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png">
+<img src="https://assets.stickpng.com/thumbs/5847f5c3cef1014c0b5e489d.png" style="width:130px; height:130px">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" style="width:130px; height:130px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"style="width:130px; height:130px">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/node-sass-logo-svg-vector.svg"style="width:130px; height:130px">
@@ -26,7 +26,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 ## Logics
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" style="width:130px; height:130px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="width:130px; height:130px">
-<img src="https://assets.stickpng.com/images/62a79606e42d729d928b175f.png" style="width:130px; height:130px">
+<img src="https://cursosdedesarrollo.com/wp-content/uploads/2019/08/angularjs-logo-600x394.png" style="width:130px; height:130px">
 
 
 ## Frameworks
@@ -37,7 +37,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 ## Content Management Systems (CMS)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" style="width:130px; height:130px">
-<img src="https://assets.stickpng.com/images/62e3cccfd889babae63d7512.png" style="width:130px; height:130px">
+<img src="https://global-uploads.webflow.com/5f8b0a1abe69652278dad51c/62672360adb8a907fbed8f87_d9149f6d.png" style="width:130px; height:130px">
 
 
 ## Databases
@@ -57,7 +57,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 ## Data transfering
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" style="width:130px; height:130px">
-<img src="https://assets.stickpng.com/images/62cc1b3a150d5de9a3dad5f7.png" style="width:130px; height:130px">
+<img src="https://media.licdn.com/dms/image/C4E12AQFf4LJR49lXQg/article-cover_image-shrink_600_2000/0/1576293100655?e=2147483647&v=beta&t=TQZSXJoMiK-Fv_L-Sro1k0zP026xbHp3IHY8EogWIx8" style="width:130px; height:130px">
 
 
 
