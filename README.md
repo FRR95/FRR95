@@ -17,10 +17,10 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 <img src="https://cdn.freebiesupply.com/logos/large/2x/node-sass-logo-svg-vector.svg"style="width:130px; height:130px">
 
 ## Backend
-<img src="https://www.php.net/images/logos/new-php-logo.svg"style="width:130px; height:130px">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"style="width:130px; height:130px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"style="width:130px; height:130px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"style="width:130px; height:130px">
+<img src="https://www.php.net/images/logos/new-php-logo.svg" style="width:130px; height:130px">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" style="width:130px; height:130px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width:130px; height:130px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="width:130px; height:130px">
 
 
 ## Logics
