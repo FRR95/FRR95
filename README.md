@@ -52,7 +52,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 
 ## Image editing
 
-<img src="https://assets.stickpng.com/images/5847f979cef1014c0b5e48bd.png" style="width:190px; height:130px">
+<img src="https://download.logo.wine/logo/GIMP/GIMP-Logo.wine.png" style="width:190px; height:130px">
 
 ## Data transfering
 
