@@ -11,7 +11,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 # MY SKILLS
 
 ## Frontend
-<img src="https://assets.stickpng.com/thumbs/5847f5c3cef1014c0b5e489d.png" style="width:130px; height:130px">
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" style="width:130px; height:130px">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" style="width:130px; height:130px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"style="width:130px; height:130px">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/node-sass-logo-svg-vector.svg"style="width:130px; height:130px">
@@ -52,7 +52,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 
 ## Image editing
 
-<img src="https://assets.stickpng.com/images/62a6306f03a870b920cbfd37.png" style="width:130px; height:130px">
+<img src="https://assets.stickpng.com/images/5847f979cef1014c0b5e48bd.png" style="width:190px; height:130px">
 
 ## Data transfering
 
