@@ -12,7 +12,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 
 ## Frontend
 <img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="30px" height="30px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/node-sass-logo-svg-vector.svg">
 
