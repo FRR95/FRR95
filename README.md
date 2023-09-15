@@ -6,7 +6,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 📌 Valencia 🇪🇸
 
 
-<div id="skills">
+<div id="skills" style="background-color:white">
 
 # MY SKILLS
 
