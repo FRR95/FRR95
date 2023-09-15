@@ -43,7 +43,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 ## Databases
 
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" style="width:130px; height:130px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" style="width:190px; height:130px">
+<img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/media/5f34fd1aa2ebfaf2cd548bafeb021c8f.png?resize=400x300&vertical=center" style="width:190px; height:130px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/2097px-Microsoft_Office_Access_%282019-present%29.svg.png" style="width:130px; height:130px">
 
 ## Video editing
