@@ -12,15 +12,15 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 
 ## Frontend
 <img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="130px" height="130px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"width="130px" height="130px">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/node-sass-logo-svg-vector.svg"width="130px" height="130px">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" style="width:130px; height:130px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"style="width:130px; height:130px">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/node-sass-logo-svg-vector.svg"style="width:130px; height:130px">
 
 ## Backend
-<img src="https://www.php.net/images/logos/new-php-logo.svg"width="130px" height="130px">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"width="130px" height="130px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"width="130px" height="130px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"width="130px" height="130px">
+<img src="https://www.php.net/images/logos/new-php-logo.svg"style="width:130px; height:130px">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"style="width:130px; height:130px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"style="width:130px; height:130px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"style="width:130px; height:130px">
 
 
 ## Logics
