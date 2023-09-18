@@ -15,7 +15,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" style="width:130px; height:130px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"style="width:130px; height:130px">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/node-sass-logo-svg-vector.svg"style="width:130px; height:130px">
-<img src="https://assets.stickpng.com/images/5fb6c1b8b8994e0004469d5a.png"style="width:200px; height:130px">
+<img src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.png"style="width:130px; height:130px">
 
 ### Backend
 <img src="https://www.php.net/images/logos/new-php-logo.svg" style="width:130px; height:130px">
