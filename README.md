@@ -11,7 +11,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 ## My skills
 
 ### Frontend
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" style="width:130px; height:130px">
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" style="width:180px; height:130px">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" style="width:130px; height:130px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"style="width:130px; height:130px">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/node-sass-logo-svg-vector.svg"style="width:130px; height:130px">
@@ -43,7 +43,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 
 ### Databases
 
-<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" style="width:130px; height:130px">
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" style="width:210px; height:130px">
 <img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/media/5f34fd1aa2ebfaf2cd548bafeb021c8f.png?resize=400x300&vertical=center" style="width:190px; height:130px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/2097px-Microsoft_Office_Access_%282019-present%29.svg.png" style="width:130px; height:130px">
 
@@ -57,7 +57,7 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 
 ### Data transfering
 
-<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" style="width:190px; height:130px">
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" style="width:210px; height:130px">
 <img src="https://media.licdn.com/dms/image/C4E12AQFf4LJR49lXQg/article-cover_image-shrink_600_2000/0/1576293100655?e=2147483647&v=beta&t=TQZSXJoMiK-Fv_L-Sro1k0zP026xbHp3IHY8EogWIx8" style="width:190px; height:130px">
 
 
