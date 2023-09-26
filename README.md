@@ -29,6 +29,11 @@ Graduated in Studio Academy in 2016 as a <b>senior technician in web application
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="width:130px; height:130px">
 <img src="https://cursosdedesarrollo.com/wp-content/uploads/2019/08/angularjs-logo-600x394.png" style="width:190px; height:130px">
 
+### IDEs
+
+<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" style="width:210px; height:130px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" style="width:130px; height:130px">
+
 
 ### Frameworks
 
